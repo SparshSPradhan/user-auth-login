@@ -1,6 +1,15 @@
+# Setup Instructions
+We will use the following stack:
+
+Frontend: React
+Backend: Node.js (Express)
+Image Manipulation API: We'll use Cloudinary API (You can register for a free account at Cloudinary)
+User Authentication: JWT (JSON Web Token)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
